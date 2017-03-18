@@ -1,0 +1,15 @@
+E:\MyDemo\MySoft\users\bin\Debug\users.dll.config
+E:\MyDemo\MySoft\users\bin\Debug\users.dll
+E:\MyDemo\MySoft\users\bin\Debug\users.pdb
+E:\MyDemo\MySoft\users\bin\Debug\EntityFramework.dll
+E:\MyDemo\MySoft\users\bin\Debug\EntityFramework.SqlServer.dll
+E:\MyDemo\MySoft\users\bin\Debug\Qx.Tools.dll
+E:\MyDemo\MySoft\users\bin\Debug\System.Web.Mvc.dll
+E:\MyDemo\MySoft\users\bin\Debug\EntityFramework.xml
+E:\MyDemo\MySoft\users\bin\Debug\EntityFramework.SqlServer.xml
+E:\MyDemo\MySoft\users\bin\Debug\System.Web.Mvc.xml
+E:\MyDemo\MySoft\users\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\MyDemo\MySoft\users\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\MyDemo\MySoft\users\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+E:\MyDemo\MySoft\users\obj\Debug\users.dll
+E:\MyDemo\MySoft\users\obj\Debug\users.pdb

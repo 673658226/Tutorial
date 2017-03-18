@@ -1,0 +1,21 @@
+﻿@{
+    Layout = "";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>登陆</title>
+    <link href="~/Content/Login.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="login">
+        <h1>Login</h1>
+        <form method="post" action="/Account/Login">           
+            <input type="text" required="required" placeholder="用户名" name="uid">
+            <input type="password" required="required" placeholder="密码" name="psw">
+            <button class="but" type="submit">登录</button>
+        </form>
+    </div>
+</body>
+</html>  

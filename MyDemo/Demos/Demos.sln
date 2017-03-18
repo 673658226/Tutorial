@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demos", "Demos\Demos.csproj", "{3539ABF0-046C-4985-B198-006F76A8BDCA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{F709AF5A-3E1F-4807-B388-8EC163641FEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPermission", "MyPermission\MyPermission.csproj", "{908E513C-2249-4FEC-96D0-26E57151ACE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3539ABF0-046C-4985-B198-006F76A8BDCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3539ABF0-046C-4985-B198-006F76A8BDCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3539ABF0-046C-4985-B198-006F76A8BDCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3539ABF0-046C-4985-B198-006F76A8BDCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{908E513C-2249-4FEC-96D0-26E57151ACE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{908E513C-2249-4FEC-96D0-26E57151ACE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{908E513C-2249-4FEC-96D0-26E57151ACE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{908E513C-2249-4FEC-96D0-26E57151ACE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{908E513C-2249-4FEC-96D0-26E57151ACE3} = {F709AF5A-3E1F-4807-B388-8EC163641FEC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+E:\MyDemo\MySoft\Tools.Ioc.Unity\bin\Debug\Tools.Ioc.Unity.dll
+E:\MyDemo\MySoft\Tools.Ioc.Unity\bin\Debug\Tools.Ioc.Unity.pdb
+E:\MyDemo\MySoft\Tools.Ioc.Unity\bin\Debug\Microsoft.Practices.Unity.dll
+E:\MyDemo\MySoft\Tools.Ioc.Unity\bin\Debug\Qx.Tools.dll
+E:\MyDemo\MySoft\Tools.Ioc.Unity\bin\Debug\System.Web.Mvc.dll
+E:\MyDemo\MySoft\Tools.Ioc.Unity\bin\Debug\users.dll
+E:\MyDemo\MySoft\Tools.Ioc.Unity\bin\Debug\EntityFramework.dll
+E:\MyDemo\MySoft\Tools.Ioc.Unity\bin\Debug\users.pdb
+E:\MyDemo\MySoft\Tools.Ioc.Unity\bin\Debug\Microsoft.Practices.Unity.xml
+E:\MyDemo\MySoft\Tools.Ioc.Unity\bin\Debug\System.Web.Mvc.xml
+E:\MyDemo\MySoft\Tools.Ioc.Unity\bin\Debug\EntityFramework.xml
+E:\MyDemo\MySoft\Tools.Ioc.Unity\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+E:\MyDemo\MySoft\Tools.Ioc.Unity\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\MyDemo\MySoft\Tools.Ioc.Unity\obj\Debug\Tools.Ioc.Unity.csprojResolveAssemblyReference.cache
+E:\MyDemo\MySoft\Tools.Ioc.Unity\obj\Debug\Tools.Ioc.Unity.dll
+E:\MyDemo\MySoft\Tools.Ioc.Unity\obj\Debug\Tools.Ioc.Unity.pdb
